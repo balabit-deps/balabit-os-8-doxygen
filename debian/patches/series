@@ -1,0 +1,15 @@
+manpages.diff
+dot-config.diff
+#doxygen_direct_dot_run.diff
+#gcc-g.diff
+#doxygen-jquery.patch
+#dot_num_threads.diff
+#sqlite3-configure.diff
+no-timestamps.diff
+#issue759241.diff
+avoid-compass.diff
+llvm_libs.diff
+#reproducible_year.diff
+faketime_pdflatex.diff
+libatomic.diff
+sass_fix.diff
